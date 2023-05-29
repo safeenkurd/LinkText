@@ -1,6 +1,6 @@
 name: text_link
 description: This Flutter package is designed to simplify text rendering with embedded URLs. It allows users to tap on any URL in the text (even at the beginning, end, or if the URL format is incorrect) to open the link.
-version: 0.0.6
+version: 0.0.7
 
 
 environment:
