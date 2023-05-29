@@ -52,4 +52,4 @@ The LinkText package is a powerful Flutter utility designed to transform URLs em
 
 
 
-[Check out the example application here](https://github.com/safeenkurd/LinkText/tree/main/example)
+[Check out the example application here](https://github.com/safeenkurd/LinkText/tree/main/text_link/example)
