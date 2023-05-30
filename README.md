@@ -34,8 +34,10 @@ The LinkText package is a powerful Flutter utility designed to transform URLs em
 
 ## Screenshots
 
-<img width="300" height="500" src="https://archive.org/download/simulator-screenshot-i-phone-14-pro-2023-05-30-at-00.31.37/Simulator%20Screenshot%20-%20iPhone%2014%20Pro%20-%202023-05-30%20at%2000.31.37.png" alt="">
+<img width="300" height="540" src="https://archive.org/download/simulator-screenshot-i-phone-14-pro-2023-05-30-at-00.31.37/Simulator%20Screenshot%20-%20iPhone%2014%20Pro%20-%202023-05-30%20at%2000.31.37.png" alt="">
 
+
+## Properties
 
 | Parameter        | Description |
 | ---------------- | ----------- |
@@ -52,4 +54,4 @@ The LinkText package is a powerful Flutter utility designed to transform URLs em
 
 
 
-[Check out the example application here](https://github.com/safeenkurd/LinkText/tree/main/text_link/example)
+[Check out the example application here](https://github.com/safeenkurd/LinkText/blob/main/example/lib/main.dart)
